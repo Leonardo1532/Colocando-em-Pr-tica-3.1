@@ -1,0 +1,81 @@
+.Titulo {
+    text-align: center;
+}
+
+.tudo {
+    width: 700px;
+}
+
+.Apresentacao1 {
+    background-color: salmon;
+    height: 20px;
+    width: 250px;
+    float: left;
+    margin: 20px 0px 20px 60px;
+    padding: 10px 15px;
+}
+
+.Apresentacao2 {
+    background-color: salmon;
+    height: 20px;
+    width: 250px;
+    float: right;
+    margin: 20px 60px 20px 0px;
+    padding: 10px 15px;
+    
+}
+
+.Apresentacao3 {
+    background-color: salmon;
+    height: 20px;
+    width: 250px;
+    float: left;
+    margin: 20px 0px 20px 60px;
+    padding: 10px 15px;
+}
+
+.Apresentacao4 {
+    background-color: salmon;
+    height: 20px;
+    width: 250px;
+    float: right;
+    margin: 20px 60px 20px 0px;
+    padding: 10px 15px;
+    
+}
+
+.Rotina {
+    height: 250px;
+    width: 230px;
+    background-color: blue;
+    float: left;
+    margin: 20px 0px 20px 70px;
+    padding: 0px 20px 155px 20px;
+}
+
+.Hobbies {
+    height: 250px;
+    width: 230px;
+    background-color: greenyellow;
+    float: right;
+    margin: 20px 70px 20px 0px;
+    padding: 0px 20px 155px 20px
+}
+
+.Artista {
+    height: 250px;
+    width: 230px;
+    background-color: greenyellow;
+    float: left;
+    margin: 20px 0px 20px 70px;
+    padding: 0px 20px 155px 20px
+}
+
+.Viagens {
+    height: 250px;
+    width: 230px;
+    background-color: blue;
+    float: right;
+    margin: 20px 70px 20px 0px;
+    padding: 0px 20px 155px 20px
+}
