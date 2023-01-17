@@ -1,0 +1,20 @@
+.cabecalho {
+    text-align: center;
+    background-color: greenyellow;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.conteudo {
+    margin: 30px auto;
+    background-color: royalblue;
+    max-width: 90vw;
+}
+
+.card {
+    width: 40vw;
+    height: 15vw;
+    margin: 2.5vw 2.5vw;
+    background-color: greenyellow;
+    float: left;
+}

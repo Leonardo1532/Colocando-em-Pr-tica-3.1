@@ -1,0 +1,91 @@
+
+.Titulo {
+    text-align: center;
+    background-color: rgb(47, 50, 255);
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.conteudo {
+    margin: 30px auto;
+    background-color: rgb(255, 255, 255);
+    max-width: 90vw;
+}
+
+.Apresentacao1 {
+    width: 28vw;
+    height: 2vw;
+    margin: 1vw 8vw;
+    background-color: salmon;
+    float: left;
+    padding-left: 1vw;
+    text-align: center;
+}
+.Apresentacao2 {
+    width: 28vw;
+    height: 2vw;
+    margin: 1vw 8vw;
+    background-color: salmon;
+    float: left;
+    padding-left: 1vw;
+    text-align: center;
+}
+.Apresentacao3 {
+    width: 28vw;
+    height: 2vw;
+    margin: 1vw 8vw;
+    background-color: salmon;
+    float: left;
+    padding-left: 1vw;
+    text-align: center;
+}
+.Apresentacao4 {
+    width: 28vw;
+    height: 2vw;
+    margin: 1vw 8vw;
+    background-color: salmon;
+    float: left;
+    padding-left: 1vw;
+    text-align: center;
+}
+
+.Rotina{
+    width: 39vw;
+    height: 12vw;
+    margin: 1vw 2.5vw 1vw 1.5vw;
+    background-color: red;
+    float: left;
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+    padding-right: 1vw
+}
+.Hobbies{
+    width: 39vw;
+    height: 12vw;
+    margin: 1vw 1.5vw 1vw 2.5vw;
+    background-color: greenyellow;
+    float: left;
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+    padding-right: 1vw
+}
+.Artista{
+    width: 39vw;
+    height: 12vw;
+    margin: 1vw 2.5vw 1vw 1.5vw;
+    background-color: greenyellow;
+    float: left;
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+    padding-right: 1vw
+}
+.Viagens{
+    width: 39vw;
+    height: 12vw;
+    margin: 1vw 1.5vw 1vw 2.5vw;
+    background-color: red;
+    float: left;
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+    padding-right: 1vw
+}
